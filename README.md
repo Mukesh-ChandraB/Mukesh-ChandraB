@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mukesh (popper monu) chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh (popper monu) chandra" height="30" width="40" /></a>
-<a href="https://fb.com/popper monu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="popper monu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukesh-chandra-13112b275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh (popper monu) chandra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100044667443267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="popper monu" height="30" width="40" /></a>
 <a href="https://instagram.com/popper_monu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="popper_monu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/popper monu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="popper monu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbgTljm-1oNd5yi8cNKn4hA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="popper monu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
